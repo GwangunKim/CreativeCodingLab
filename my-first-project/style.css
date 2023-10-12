@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    
+}
+.big{
+    font-size: 100px;
+    font-family: monospace;
+    font-weight: 200;
+}
+#red{
+    color: coral;
+}
+#green{
+    color:aquamarine;
+}
+#yellow{
+    color: khaki;
+}
+a{
+    color: aqua;
+}
+a:hover{
+    color: yellowgreen;
+}
